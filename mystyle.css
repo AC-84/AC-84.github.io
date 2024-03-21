@@ -1,14 +1,12 @@
-
-
 body {
-    background-color: rgba(177, 175, 175, 0.815);
- }
+  text-align: center;
+   background-color: rgba(177, 175, 175, 0.815);
+}
 
- * {
+.options {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
     text-align: center;
- }
-
- .options {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: large;
- }
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/011/888/116/small/neumorphic-rectangle-button-free-png.png")
+    
+}
