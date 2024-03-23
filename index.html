@@ -9,26 +9,20 @@
 <img src="https://i.pinimg.com/736x/8f/b4/06/8fb406814ee34349f37ba42592aaf010.jpg" alt="Happy Music Note" style="width:299px;height:299px;"> 
 
 <div class="option1"> 
-    <nav>
-        <ul>
-            <li> <a href="signin.html"> Sign In </a> </li>
-        </ul>
-    </nav>
-</div>
 
-<div class="option2"> 
-    <nav>
-        <ul>
-            <li> <a href="contact.html"> Create Account </a> </li>
-        </ul>
-    </nav>
-</div>
+<button id="sign-btn" class="cta-button" data-test-label="in-button" onclick="window.open(
+    'https://ac-84.github.io/signin.html',
+    'share-twitter',
+    'width=550, height=235'
+  ); return false;"> Sign In </button>
 
 <button id="create-btn" class="cta-button" data-test-label="account-button" onclick="window.open(
     'https://ac-84.github.io/contact.html',
     'share-twitter',
     'width=550, height=235'
   ); return false;"> Create Account </button>
+  
+</div>
 
 </body>
 </html>
