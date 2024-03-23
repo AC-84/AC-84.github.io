@@ -7,10 +7,23 @@ body {
  text-align: center; 
 }
 
-text-decoration: none;
+.form {
+  text-align: right;
+}
+
+.musicimage {
+  text-align: left;
+  padding-top: 1000;
+  background-color: rgba(177, 175, 175, 0.815);
+}
+
+.whyca {
+  text-decoration: none;
   border: 0.2px solid #000;
   color: #000;
   background: #e6e4e4;
   padding: 5px;
   border-radius: 1px;
   list-style-type: none;
+}
+
