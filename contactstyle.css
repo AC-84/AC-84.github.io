@@ -1,4 +1,4 @@
-body {
+* {
     background-color: rgba(177, 175, 175, 0.815);
 }
 .form {
@@ -7,6 +7,7 @@ body {
 
 img {
     text-align: left;
+    padding-top: 1000;
 }
   
 
