@@ -3,26 +3,11 @@ body {
    background-color: rgba(177, 175, 175, 0.815);
 }
 
-.option1 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: larger;
-    text-align: center;
-    text-decoration: none;
-    border: 0.2px solid #000;
-    color: #000;
-    background: #e6e4e4;
-    padding: 5px;
-    border-radius: 1px;
+.options {
+  text-decoration: none;
+  border: 0.2px solid #000;
+  color: #000;
+  background: #e6e4e4;
+  padding: 5px;
+  border-radius: 1px;
 }
-
-.option2 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-      font-size: larger;
-      text-align: center;
-      text-decoration: none;
-      border: 0.2px solid #000;
-      color: #000;
-      background: #e6e4e4;
-      padding: 5px;
-      border-radius: 1px;
-  }
