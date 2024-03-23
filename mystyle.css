@@ -18,13 +18,19 @@ body {
 }
 
 .whyca {
-  text-align: center
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 100vh;
+
 }
 
-text-decoration: none;
+/** text-decoration: none;
   border: 0.2px solid #000;
   color: #000;
   background: #e6e4e4;
   padding: 5px;
   border-radius: 1px;
-  list-style-type: none;
+  list-style-type: none; /
