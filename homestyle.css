@@ -1,19 +1,52 @@
-li {
+.lispace {
     list-style-type: none;
     display: inline;
   }
+.linature {
+    list-style-type: none;
+    display: inline;
+}
+.lianimal {
+    list-style-type: none;
+    display: inline;
+}
+.licity {
+    list-style-type: none;
+    display: inline;
+}
+.lifunny {
+    list-style-type: none;
+    display: inline;
+}
+.aspace {
+    text-decoration: none;
+    color: white;
+}
+.anature {
+    text-decoration: none;
+    color: white;
+}
+.aanimal {
+    text-decoration: none;
+    color: white;
+}
+.acity {
+    text-decoration: none;
+    color: white;
+}
+.afunny {
+    text-decoration: none;
+    color: white;
+}
   
 nav {
     background-color: black;
     text-align: center;
   }
   
-a {
-    text-decoration: none;
-    color: white;
-  }
 
-img {
+
+.soundwave {
     width: 577;
     height: 732
   }
