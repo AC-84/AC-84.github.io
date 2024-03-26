@@ -1,0 +1,14 @@
+li {
+    list-style-type: none;
+    display: inline;
+  }
+  
+  nav {
+    background-color: black;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
