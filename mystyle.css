@@ -7,6 +7,10 @@ li {
   display: inline;
 }
 
+h1 {
+  display: inline;
+}
+
 nav {
   background-color: black;
   text-align: center;
