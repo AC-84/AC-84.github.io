@@ -9,9 +9,19 @@
 
 .linav {
   background-color: black;
-  color: white; 
   text-align: center;
   display: inline;
+}
+
+.anav {
+  display: inline; 
+  color: white;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.anav:hover {
+  background-color: grey;
 }
 
 
