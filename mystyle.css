@@ -3,6 +3,11 @@ body {
   text-align: center;
 }
 
+p {
+  color: white;
+  text-size-adjust: 20px;
+}
+
 h1 {
   text-align: center;
   background-color: #000;
