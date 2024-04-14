@@ -1,14 +1,14 @@
-body {
+.atbody {
   background-color: black;
   text-align: center;
 }
 
-p {
+.SCORE {
   color: white;
   text-size-adjust: 20px;
 }
 
-h1 {
+.AT {
   text-align: center;
   background-color: #000;
   border: .5px solid crimson;
