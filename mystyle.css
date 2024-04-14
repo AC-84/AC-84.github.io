@@ -1,3 +1,5 @@
+/*Aim trainer game*/
+
 .atbody {
   background-color: black;
   text-align: center;
@@ -35,5 +37,4 @@
   box-shadow: 0 0 30px 0 crimson,
               0 0 30px 0 crimson,
               0 0 10px 0 crimson inset;
-
 }
