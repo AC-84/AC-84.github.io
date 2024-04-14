@@ -1,32 +1,3 @@
-/*Home Page*/
-
-.homenav {
-  list-style-type: none;
-  display: inline;
-  text-align: center;
-  background-color:#000000; 
-}
-
-.linav {
-  background-color: black;
-  text-align: center;
-  display: inline;
-}
-
-.anav {
-  display: inline; 
-  color: white;
-  padding-left: 25px;
-  padding-right: 25px;
-}
-
-.anav:hover {
-  background-color: grey;
-}
-
-
-
-
 /*Aim trainer game*/
 
 .atbody {
