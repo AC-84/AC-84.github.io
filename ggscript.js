@@ -17,6 +17,7 @@ function checkGuess() {
       resultDiv.style.color = "#00FF00";
       guessInput.disabled = true;
       submitButton.disabled = true;
+    } else if (guess < answer) {
       resultDiv.textContent = "Too low. Guess again.";
       resultDiv.style.color = "white";
     } else {
