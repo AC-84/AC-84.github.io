@@ -45,7 +45,14 @@ nav a:hover {
   text-size-adjust: 20px;
 }
 
+.AT:hover {
+  background-color: white;
+  color: black;
+  font-size: 30px;
+}
+
 .AT {
+  list-style-type: none;
   text-align: center;
   background-color: #000;
   border: .5px solid crimson;
