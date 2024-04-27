@@ -32,17 +32,29 @@ nav a:hover {
   background-color: #555;
 }
 
+p {
+  text-align: left;
+  display: inline-block;
+  font-size: 20px;
+  width: 50%;
+}
+
+h1 {
+  text-align: left;
+  font-size: 500%;
+  
+}
 /*Aim trainer game*/
 
 
 .atbody {
   background-color: black;
-  text-align: center;
 }
 
 .SCORE {
   color: white;
   text-size-adjust: 20px;
+  text-align: left;
 }
 
 .AT:hover {
@@ -53,16 +65,45 @@ nav a:hover {
 
 .AT {
   list-style-type: none;
-  text-align: center;
+  text-align: left;
   background-color: #000;
   border: .5px solid crimson;
   border-radius: 10px;
   color: #fff;
   padding: 8px;
+  cursor: pointer;
   box-shadow: 0 0 30px 0 crimson,
               0 0 30px 0 crimson,
               0 0 10px 0 crimson inset;
 }
+.dropdown-content {
+  text-align: center;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Style the links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1;
+}
+
+/* Show the dropdown content when the button is hovered over */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 #box {
   width: 50px;
